@@ -1,4 +1,5 @@
 // there are many possible and correct variable names 
+/*
 let rosePrice = 8;
  let lilyPrice = 10; 
  let tulipPrice = 2; 
@@ -34,3 +35,8 @@ let rosePrice = 8;
     tulipsValue
   );
   console.log("Total: ", total);
+
+*/
+
+  let result = false || "false";
+console.log(result); // Outputs: "false"
